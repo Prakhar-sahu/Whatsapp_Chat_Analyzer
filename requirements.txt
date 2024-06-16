@@ -5,3 +5,5 @@ seaborn
 textblob
 preprocessor
 helper
+urlextract
+emoji
