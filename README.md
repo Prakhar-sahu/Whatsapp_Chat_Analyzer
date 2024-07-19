@@ -27,7 +27,7 @@ To get started with ChatChurn, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ChatChurn.git
+    git clone https://github.com/Prakhar-sahu/Whatsapp_Chat_Analyzer.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
